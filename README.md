@@ -21,11 +21,11 @@ The password generator has the user enter the length of the password: between 8 
 <li>Special Characters</li>
 </ul>
 
-<img src="./assets/images/passwordgenerator.png">
-<img src="./assets/images/lengthprompt.png">
-<img src="./assets/images/upperprompt.png">
-<img src="./assets/images/lowerprompt.png">
-<img src="./assets/images/numbersprompt.png">
-<img src="./assets/images/charactersprompt.png">
-<img src="./assets/images/password.png">
+<img src="./assets/passwordgenerator.png">
+<img src="./assets/lengthprompt.png">
+<img src="./assets/upperprompt.png">
+<img src="./assets/lowerprompt.png">
+<img src="./assets/numbersprompt.png">
+<img src="./assets/charactersprompt.png">
+<img src="./assets/password.png">
 
